@@ -1,1 +1,0 @@
-module.exports.SECRET = "KEY_1234";
